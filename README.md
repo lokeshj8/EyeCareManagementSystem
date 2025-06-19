@@ -27,3 +27,13 @@ This is a simple Java console application for basic eye care management.
 - Add a database for storing records permanently
 - Create a simple GUI version
 - Add admin login
+## 📞 Contact
+
+For any suggestions, please reach out:  
+Email: jlokesh2002@gmail.com
+
+---
+
+## 📄 License
+
+This project is open-source for learning purposes.
