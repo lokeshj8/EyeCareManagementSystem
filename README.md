@@ -24,7 +24,7 @@ Any Java IDE like Eclipse or IntelliJ IDEA
 bash
 Copy
 Edit
-git clone https://github.com/your-username/EyeCareManagementSystem.git
+git clone https://github.com/lokeshj8/EyeCareManagementSystem.git
 2️⃣ Backend (JSP + JDBC + MySQL):
 Open the backend folder in Eclipse/IntelliJ
 
