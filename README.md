@@ -1,39 +1,68 @@
-# EyeCareManagementSystem
+EyeCareManagementSystem
+This is a full-stack Eye Care Management System developed using ReactJS, JSP, and JDBC. It provides basic features to manage patient details and eye care records.
 
-This is a simple Java console application for basic eye care management.
+📌 Features
+✅ Patient registration and details management
+✅ Simple eye care records with diagnosis and treatment info
+✅ ReactJS frontend for interactive UI
+✅ JSP pages for dynamic web rendering
+✅ JDBC-based connection to MySQL for backend data handling
 
----
+⚙️ Requirements
+Java JDK (8 or above)
 
-## 📌 Features
+Apache Tomcat (for JSP deployment)
 
-✅ Basic patient details  
-✅ Simple eye care records  
-✅ Console-based user interaction
+MySQL Server (for database)
 
----
+Node.js & npm (for ReactJS frontend)
 
-## ⚙️ Requirements
+Any Java IDE like Eclipse or IntelliJ IDEA
 
-- Java installed (JDK 8 or above)
-- Any Java IDE (like IntelliJ IDEA, Eclipse) **OR** online compiler (like [OnlineGDB](https://www.onlinegdb.com/))
+▶️ How to Run
+1️⃣ Clone this repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/EyeCareManagementSystem.git
+2️⃣ Backend (JSP + JDBC + MySQL):
+Open the backend folder in Eclipse/IntelliJ
 
----
+Import the project as a Dynamic Web Project
 
-## ▶️ How to Run
+Set up Apache Tomcat and configure server
 
-1️⃣ **Download** or **clone** this repository:
-## 🚀 Future Improvements
+Create a database in MySQL and update DB credentials in your Java code
 
-- Add a database for storing records permanently
-- Create a simple GUI version
-- Add admin login
-## 📞 Contact
+3️⃣ Frontend (ReactJS):
+Navigate to the React frontend folder:
 
-For any suggestions, please reach out:  
-Email: jlokesh2002@gmail.com
+bash
+Copy
+Edit
+cd frontend
+npm install
+npm start
+🚀 Future Improvements
+Use Spring Boot for scalable backend
 
----
+Implement user authentication with JWT
 
-## 📄 License
+Host both frontend and backend on the cloud
 
-This project is open-source for learning purposes.
+Role-based access (Admin, Doctor, Receptionist)
+
+📞 Contact
+For feedback or suggestions, feel free to reach out:
+📧 Email: jlokesh2002@gmail.com
+
+📄 License
+This project is open-source and intended for educational and learning purposes only.
+
+Let me know if you'd like to add:
+
+A sample database schema
+
+Screenshots or a demo link
+
+Deployment instructions (Netlify for React / Heroku for backend)
