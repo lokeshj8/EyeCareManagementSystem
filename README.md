@@ -8,7 +8,6 @@ This is a full-stack Eye Care Management System developed using ReactJS, JSP, an
 ✅ JSP pages for dynamic web rendering
 ✅ JDBC-based connection to MySQL for backend data handling
 
-
 ⚙️ Requirements
 Java JDK (8 or above)
 
